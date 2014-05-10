@@ -1,0 +1,6 @@
+# vagrant
+.vagrant
+
+# free synced folder
+synced/*
+!synced/empty
